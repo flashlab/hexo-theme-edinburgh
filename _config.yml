@@ -2,5 +2,10 @@
 google_analytics:
 
 # Default portfolio post
-default_cover_image: images/unsplash.jpg
-default_post_title: Portfolio Item
+default_cover_image: /images/unsplash.png
+default_post_title: Photograph
+
+menu:
+  HOME: /
+  ABOUT: /about
+  CONTACT: /contact
